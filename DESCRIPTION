@@ -1,7 +1,7 @@
 Package: drilling
 Type: Package
-Title: What the Package Does (Title Case)
-Version: 0.1.0
+Title: Drilling data sets
+Version: 0.1.1
 Author: c(
     person("Mark", "Lindsay", email="markdlindsay@gmail.com", role = c("aut", "cre"))
     )
